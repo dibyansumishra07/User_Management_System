@@ -1,0 +1,4 @@
+// This files used to add repositories from Maven and declare plugins
+// This files used to include other projects to build along with parent project
+
+rootProject.name = 'usermanagement'
